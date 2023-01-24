@@ -1,4 +1,4 @@
-## Hi there ＼(⌒▽⌒)
+# Hi there ＼(⌒▽⌒)
 I am Matěj :: young **Front-End Develope**r. I like working on small details, UI/UX design, photography and music production.
 - I'm currently working with vanilla JS and CSS
 - I'm looking forward to learn React
