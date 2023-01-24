@@ -5,10 +5,11 @@ I am Matěj :: young **Front-End Develope**r. I like working on small details, U
 
 # Connect with me:
 Discord — reixxe#9877
-Email — matej.tobias.moravec@gmail.com
-[LinkedIn](https://www.linkedin.com/in/mat%C4%9Bj-tobi%C3%A1%C5%A1-moravec-339b0a233/)
 
-### Tech skills
+### Active Projects 🖥️🧾
+[Neocortex](https://github.com/mateyy11/neocortex-web) - IT Solutions company website in pure JS
+
+### Tech Skills 👨‍💻
 - HTML, CSS
 - JavaScript
 - C#, Wpf
