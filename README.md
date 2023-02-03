@@ -8,6 +8,7 @@ Discord — reixxe#9877
 
 ## Active Projects 🖥️🧾
 [Neocortex](https://github.com/mateyy11/neocortex-web) - IT Solutions company website in pure JS
+
 [Rest timer](https://github.com/DenisMatsenko/Rest-Timer-Web) (Along with Denis)
 
 ## Tech Skills 👨‍💻
